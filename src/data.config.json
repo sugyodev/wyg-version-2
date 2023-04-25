@@ -1,0 +1,10 @@
+{
+    "DataPage": {
+        "middleBanners": [
+            "imgs/banner (1).png",
+            "imgs/banner (3).png"
+        ],
+        "text": "sample text",
+        "link": "https://example.com"
+    }
+}
