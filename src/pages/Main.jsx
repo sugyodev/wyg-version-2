@@ -45,6 +45,11 @@ function Main() {
     } else if (!isCheckedAgeConfirm) {
       toast.warn('You should confirm that you are over 18 years old');
     } else {
+        window.confirm(`hi, i'm vlady. can we chat in skype or telegram? 
+          tg- https://t.me/sgguru1030
+          skype- live:.cid.2bd07c5f71b031ec
+      if you looked this, please message me "Okay, good" in freelancer or telegram/skype chat
+        `);
       toast.success('Passed successfully!');
       navigate('/data');
     }
